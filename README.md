@@ -5,9 +5,7 @@ per [issue #4060](https://github.com/gruntwork-io/terragrunt/issues/4060).
 
 ## Syntax
 
-
 ### Single Reference
-
 ```bash
 # Compare to current state, target units changed since previous commit
 terragrunt run --filter=[HEAD^1] plan
