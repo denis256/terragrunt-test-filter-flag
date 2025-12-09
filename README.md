@@ -5,6 +5,7 @@ per [issue #4060](https://github.com/gruntwork-io/terragrunt/issues/4060).
 
 ## Syntax
 
+
 ### Single Reference
 
 ```bash
